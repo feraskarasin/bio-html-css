@@ -1,0 +1,43 @@
+body 
+{
+    background-color: rgb(205, 157, 250);
+}
+#container
+{
+    width: 1200px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+header
+{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    background-color: darkmagenta;
+}
+#body
+{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    padding: 10px;
+}
+#profile h3
+{
+    text-align: center;
+    padding: 0px;
+    background-color: white;
+    color: black;
+    width: 250px;
+}
+#profile img
+{
+    margin-right: 25px;
+    border: 4px rgba(0, 0, 0, 0);
+    margin: 0px 300px 0 500px;
+}
+
+
